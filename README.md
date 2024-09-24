@@ -47,8 +47,8 @@ Der MC Skin ist nur wichtig wenn dieser Charaktere als NPC in der Welt stehen so
 In der Bakcstory soll kurz der Hintergrund zu dem Charakter und mögliche ander wichtige fakten erwähnt werden.
 
 Wichtige Infos:
-- ID
-- Name
+- ID z.B. `1`
+- Name z.B. `Dodo`
 - MC Skin z.B. https://namemc.com/skin/b0a99c7e7067603b 
 	>Links findest du unter: https://namemc.com/minecraft-skins/tag
 	
