@@ -28,7 +28,7 @@ Die Story soll in verschiedenen Phasen eingeteilt sein. So das es sich gut erwei
 ### Theme
 Der Server spielt im Cyberpunk Style in der Zukunft. Allerdings gibt es auch Mystische Element in der Spielwelt. Bitte achte darauf, in dem Style zu bleiben. Es dürfen gerne Ähnlichkeiten (Nicht Kopieren!) zu Star Wars integriert werden.
 
-### Orientiert am Bestehen Konzept
+### Orientiert am Bestehenden Konzept
 Folgende Systeme sollen sowohl in die Main Story als auch in die Einführung sinnvoll integriert werden.
 
  - Realm System
