@@ -14,7 +14,7 @@
 Die Story soll in verschiedenen Phasen eingeteilt sein. So das es sich gut erweitern lässt und stück für Stück integrieren lässt.
 
  1. **Phase | Einleitung / Tutorial**
-	  Hier soll der Spieler in die Grünlegenden Spielmechaniken eingeführt werden
+	  Hier soll der Spieler in die grundlegenden Spielmechaniken eingeführt werden
 	 
  2. **Phase | Hauptstory**
 	Hier ist Platz um die Story auszuführen und detailliert zu werden. Die Story soll so geschrieben sein das sie dem Spieler Freiraum gibt selber Entscheidungen zu Treffen und sich nicht zu sehr aufzwingt
